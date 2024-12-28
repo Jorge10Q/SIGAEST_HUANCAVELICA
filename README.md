@@ -71,6 +71,8 @@ Extrae el archivo `librerias.zip` en la raíz del proyecto.
    * **Entorno local**: `http://localhost/sigaest_dev/`.
    * **Producción**: URL configurada en tu dominio.
 2. Ingresa con las credenciales de administrador demo para iniciar.
+   usuario: 77777777
+   contraseña: 77777777
 
 ## Tecnologías Utilizadas
 * PHP 8.0
